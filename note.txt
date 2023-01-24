@@ -1,0 +1,61 @@
+docsify serve
+
+https://github.com/microsoft/ML-For-Beginners.git
+
+Les données sont des faits, des informations, des observations et des mesures qui sont utilisées pour
+faire des découvertes et pour appuyer des décisions éclairées.
+
+Un point de données est une unité de données unique dans un ensemble de données, qui est une collection
+de points de données. Les ensembles de données peuvent se présenter sous différents formats et structures,
+
+Il est courant que les scientifiques des données travaillent avec différents types de données au sein d'un
+ensemble de données.
+
+Données quantitatives
+  la population d'un pays, la taille d'une personne ou les revenus trimestriels d'une entreprise.
+
+Données qualitatives
+  les commentaires vidéo, la marque et le modèle d'une voiture, les produits que les consommateurs préfèrent
+  ou identifier les mots-clés populaires dans les CV de candidature
+
+Données structurées
+  feuilles de calcul, bases de données relationnelles, numéros de téléphone, relevés bancaires
+
+Données non structurées
+  fichiers texte, messages texte, fichiers vidéo
+
+Semi-structuré
+  HTML, fichiers CSV, JavaScript Object Notation (JSON)
+
+Les statistiques et la théorie des probabilités sont deux domaines très liés des mathématiques qui sont très
+pertinents pour la science des données.
+
+
+La probabilité est un nombre compris entre 0 et 1 qui exprime la probabilité d'un événement
+
+Il existe un certain nombre de problèmes typiques que l'apprentissage automatique peut résoudre, les plus importants
+étant :
+
+Problème de classification , lorsque nous devons catégoriser nos objets en deux classes ou plus. Un exemple de problème
+de classification serait le filtrage du spam des e-mails, car nous devons classer chaque e-mail en spam ou non-spam.
+Dans le problème de régression , nous devons prédire un nombre. Prédire la quantité de glaces vendues chaque jour
+dans un magasin serait un bon exemple.
+Le problème de clustering peut nous aider à trouver des types d'objets similaires et à les regrouper en fonction
+d'un principe de similarité.
+La détection d'anomalies nous permet de trouver des données qui diffèrent de la "normale"
+
+L'interprétabilité du modèle nous permet de mieux comprendre le modèle, en voyant comment différentes caractéristiques
+affectent le résultat final.
+
+Beaucoup de réflexion a été consacrée à la conception originale d'un ensemble de données et à toute la question des
+données à collecter. Ce processus est souvent plus important que la formation réelle du modèle, et
+il peut être effectué sans codage.
+
+pour visualiser la quantité : les graphiques linéaires, les nuages ​​de points et les diagrammes à barres.
+
+Pour analyser les tendances dans le temps : ligne
+Pour comparer des valeurs : barre, colonne, secteur, nuage de points
+Pour montrer comment les parties se rapportent à un tout : tarte
+Pour afficher la distribution des données : nuage de points, barre
+Pour afficher les tendances : ligne, colonne
+Pour afficher les relations entre les valeurs : ligne, nuage de points, bulle
